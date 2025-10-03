@@ -2,7 +2,7 @@
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
-*NAME*: MOHAMED SAFEER ANFAL  C
+*NAME*: MOHAMED SAFEER ANFAL . C
 
 *INTERN ID*: CT04DY2161
 
@@ -12,8 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-*DESCRIPTION*:
-  Project Description: Big Data Analysis on Covid-19 using Dask and Pandas
+*DESCRIPTION*:Project Description: Big Data Analysis on Covid-19 using Dask and Pandas
 
 The project demonstrates the use of Python libraries to analyze large-scale Covid-19 data efficiently. The primary focus is on big data processing using the Dask library, supported by Pandas for data handling and exporting results, while the OS library manages file storage. Together, these libraries create a workflow that can handle massive datasets, clean and preprocess the data, and extract meaningful insights.
 
@@ -62,10 +61,6 @@ Conclusion
 This project highlights the synergy between Dask, Pandas, and OS. Dask handles the heavy lifting by enabling distributed computations on large datasets. Pandas ensures user-friendly data handling and final reporting, while OS manages the storage environment. Together, these libraries provide a complete solution for big data analysis in Python.
 
 The project successfully performs tasks like identifying the worst-hit countries, analyzing recoveries, and calculating averages per region—all while ensuring scalability. This demonstrates how modern libraries empower analysts to transform raw data into actionable insights efficiently.
-
-
-
-
 
 
 
